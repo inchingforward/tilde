@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Nostalgia Posts 
+tagline:             'Some stuff I remember'
+description:         'Just some stuff I remember.<br /><br /><a href="https://github.com/poole/lanyon">Lanyon</a> theme by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://tilde.club/~inchingfwd
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Mike Janger 
+  url:               https://twitter.com/inchingfwd
+  email:             m_janger@yahoo.com
+
+# Custom vars
+version:             1.0.0
